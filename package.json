@@ -1,0 +1,17 @@
+{
+  "name": "react-test",
+  "version": "0.0.0",
+  "description": "get react working",
+  "main": "bundle.js",
+  "dependencies": {
+    "css-loader": "^0.9.1",
+    "react": "^0.12.2",
+    "style-loader": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Beller",
+  "license": "ISC"
+}
