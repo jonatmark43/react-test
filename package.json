@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "get react working",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonatmark43/react-test.git"
+  },
   "dependencies": {
     "css-loader": "^0.9.1",
     "react": "^0.12.2",
